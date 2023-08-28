@@ -1,0 +1,33 @@
+_repo: Le-livre-de-Girart-de-Nevers-et-de-la-belle-Euriant-s-amye_71455
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Liédet, Loyset
+    gutenberg_agent_id: '56246'
+    url: http://www.gutenberg.org/2009/agents/56246
+creator:
+  author:
+    agent_name: Montreuil, Gerbert de
+    gutenberg_agent_id: '56245'
+    url: http://www.gutenberg.org/2009/agents/56245
+description: ''
+gutenberg_issued: '2023-08-20'
+identifiers:
+  gutenberg: '71455'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/btv1b10532591q
+pgterms:marc905: 20201205115901montreuil
+pgterms:marc906: '1419'
+pgterms:marc907: BE
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aBruges :$bcopy made by order of Philip III duke of Burgundy,
+  $c1419, pubdate 1467.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le livre de Girart de Nevers et de la belle Euriant s'amye
+url: http://www.gutenberg.org/ebooks/71455
