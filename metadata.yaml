@@ -5,12 +5,17 @@ contributor:
     agent_name: Liédet, Loyset
     gutenberg_agent_id: '56246'
     url: http://www.gutenberg.org/2009/agents/56246
+covers:
+- cover_type: archival
+  image_path: 71455-h/images/cover.jpg
 creator:
   author:
     agent_name: Montreuil, Gerbert de
     gutenberg_agent_id: '56245'
     url: http://www.gutenberg.org/2009/agents/56245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71455#Le-livre-de-Girart-de-Nevers-et-de-la-belle-Euriant-s-amye
 gutenberg_issued: '2023-08-20'
 identifiers:
   gutenberg: '71455'
